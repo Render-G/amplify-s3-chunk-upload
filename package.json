@@ -31,7 +31,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@aws-amplify/core": "^3.8.14",
+    "@aws-amplify/core": "^4.5.8",
     "@aws-amplify/storage": "^3.3.22",
     "@aws-sdk/client-s3": "3.4.1",
     "@aws-sdk/s3-request-presigner": "3.4.1",
